@@ -1,0 +1,6 @@
+{
+    "prenom": "Rémy",
+    "nom": "Cozot",
+	"age" : 52, 
+    "langages": ["python", "C++", "javascript"]
+}

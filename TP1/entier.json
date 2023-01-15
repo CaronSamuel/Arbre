@@ -1,0 +1,32 @@
+[
+{
+    "prenom": "Rémy",
+    "nom": "cozot",
+	"age" : 52, 
+    "langages": ["python", "C++", "javascript"]
+},
+{
+    "prenom": "rÃ©mi",
+    "nom": "synave",
+    "age" : 37,
+    "langages": ["java", "C++"]
+},
+{
+    "prenom": "Samuel",
+    "nom": "Delepoulle",
+    "age": 42,
+    "langages": ["python", "C++", "java"]
+},
+{
+    "prenom": "Isabelle",
+    "nom" : "Delignieres",
+    "age": 23,
+    "langages" : ["Python","C","java"]
+},
+{
+    "prenom": "François",
+    "nom": "Rousselle",
+    "age" : 45, 
+    "langages" : ["java","asm", "c++"]
+}
+]
